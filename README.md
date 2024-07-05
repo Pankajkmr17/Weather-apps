@@ -22,6 +22,8 @@ A simple weather app built with Flutter that displays current weather informatio
 
 ## Getting Started
 
+![weatherapp](https://github.com/Pankajkmr17/Weather-apps/assets/93972055/b3d7003b-95c1-4758-9c28-1c68300aa978)
+
 ### Prerequisites
 
 - Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
